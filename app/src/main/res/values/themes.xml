@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WhatsUppDawg" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.WhatsUppDawg.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.WhatsUppDawg.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.WhatsUppDawg.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
